@@ -3,11 +3,9 @@ def solution(arr):
     right= len(arr) - 1
     
     #TODO : @@@ 빈칸 채우기
-    while @ @ @:
-        #arr[left], arr[right] = arr[right], arr[left]
-        temp = arr[left]
-        arr[left] = arr[right]
-        arr[right] = temp
+    while left < (len(arr)/2):
+        #arr[left]와 arr[right]의 값을 치환
+        arr[left], arr[right] = arr[right], arr[left]
         left += 1
         right -= 1
     return arr
