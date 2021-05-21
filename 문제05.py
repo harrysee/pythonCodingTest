@@ -4,11 +4,12 @@ def solution(number):
        current = i
        temp = count
        while current != 0:
-           if str(current).find('3')!=-1 or str(current).find('6')!=-1 or str(current).find('9')!=-1:
+           # if current%10==3 or current%10 ==6 or current%10==9
+           if current%10 in [3,6,9]:
                count += 1
                print("pair", end = '') # 디버깅을 위한 출력(없어도 무관)
            current = current // 10
-       if temp == count:
+       if temp == count:  # 3,6,9에 포함이 되지 않을 때
            print(i, end = '') # 디버깅을 위한 출력(없어도 무관)
        print(" ", end = '') # 디버깅을 위한 출력(없어도 무관)
    print("") # 디버깅을 위한 출력(없어도 무관)
@@ -17,3 +18,4 @@ def solution(number):
 #The following is code to output testcase.
 number = 40
 ret = solution(number)
+print(f'{ret}번 박수침')
