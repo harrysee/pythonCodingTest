@@ -5,7 +5,8 @@ def solution(number):
        temp = count
        while current != 0:
            # if current%10==3 or current%10 ==6 or current%10==9
-           if current%10 in [3,6,9]:
+           # if current%10%3 ==0 and current%10!=0
+           if current%10%3 ==0 and current%10!=0:
                count += 1
                print("pair", end = '') # 디버깅을 위한 출력(없어도 무관)
            current = current // 10
@@ -16,6 +17,6 @@ def solution(number):
    return count
 
 #The following is code to output testcase.
-number = 40
+number = 603
 ret = solution(number)
 print(f'{ret}번 박수침')
