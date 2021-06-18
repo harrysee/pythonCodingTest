@@ -14,9 +14,10 @@ def solution(numbers):
         for j in range(i+1, len(numbers)):
             # numbers[i]는 첫 번째 선택한 숫자
             # numbers[j]는 두 번째 선택한 숫자
-            if (numbers[i] + numbers[j]) not in answer:
+            두수의합 = numbers[i] + numbers[j]
+            if 두수의합 not in answer:
                 #list 끝부분에 값을 삽입
-                answer.append(numbers[i]+numbers[j])
+                answer.append(두수의합)
     answer.sort()   # 정렬
     return answer
 

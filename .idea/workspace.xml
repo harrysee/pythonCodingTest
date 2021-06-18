@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13190cd7-ac1c-400a-841f-8329e14d4ddf" name="Default Changelist" comment="문제5번 완성2">
-      <change afterPath="$PROJECT_DIR$/레모네이드.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/문제09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/숀.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/프로그래머스 Lv1/가운데글자가져오기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/프로그래머스 Lv1/내적.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/프로그래머스 Lv1/두개 뽑아서 더하기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/프로그래머스 Lv1/두수뽑아서더하기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/문제08.py" beforeDir="false" afterPath="$PROJECT_DIR$/문제08.py" afterDir="false" />
+    <list default="true" id="13190cd7-ac1c-400a-841f-8329e14d4ddf" name="Default Changelist" comment="두개 뽑아서 더하기 1정답">
+      <change beforePath="$PROJECT_DIR$/프로그래머스 Lv1/두개 뽑아서 더하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스 Lv1/두개 뽑아서 더하기.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -241,7 +233,7 @@
       <workItem from="1622763346128" duration="1678000" />
       <workItem from="1623368917661" duration="5417000" />
       <workItem from="1623390072618" duration="20000" />
-      <workItem from="1623975299072" duration="500000" />
+      <workItem from="1623975299072" duration="1090000" />
     </task>
     <task id="LOCAL-00001" summary="문제4번 java 스타일의 swap">
       <created>1620950760095</created>
@@ -334,7 +326,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621558530523</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="두개 뽑아서 더하기 1정답">
+      <created>1623975827545</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1623975827545</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -366,7 +365,8 @@
     <MESSAGE value="문제5번 보조문제 완성" />
     <MESSAGE value="문제5번 완성" />
     <MESSAGE value="문제5번 완성2" />
-    <option name="LAST_COMMIT_MESSAGE" value="문제5번 완성2" />
+    <MESSAGE value="두개 뽑아서 더하기 1정답" />
+    <option name="LAST_COMMIT_MESSAGE" value="두개 뽑아서 더하기 1정답" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
