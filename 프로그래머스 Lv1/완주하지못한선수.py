@@ -17,5 +17,23 @@ def solution2(participant, completion):
             return participant[i]
     return participant[-1]
 
+# 해시함수 사용한 예제
+# 해석 : 같은 문자열에는 같은 해쉬가 적용된다
+def solution3(participant, completion):
+    answer = ''
+    temp = 0
+    dic = dict()
+    for part in participant:
+        dic[hash(part)] = part
+        temp += int(hash(part))
+    for com in completion:
+        temp -= hash(com)
+    answer = dic[temp]
+    return answer
+
+s1 = solution(["mislav", "stanko", "mislav", "ana"],["stanko", "ana", "mislav"])
 s2 = solution2(["mislav", "stanko", "mislav", "ana"],["stanko", "ana", "mislav"])
+s3 = solution3(["mislav", "stanko", "mislav", "ana"],["stanko", "ana", "mislav"])
+print(s1)
 print(s2)
+print(s3)

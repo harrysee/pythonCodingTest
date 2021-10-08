@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13190cd7-ac1c-400a-841f-8329e14d4ddf" name="Default Changelist" comment="Lv1-01 두 수 뽑아서 더하기 [ set으로 간단 해결 ]">
-      <change afterPath="$PROJECT_DIR$/face.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/holistic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pose.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/프로그래머스 Lv1/완주하지못한선수.py" afterDir="false" />
+    <list default="true" id="13190cd7-ac1c-400a-841f-8329e14d4ddf" name="Default Changelist" comment="완주하지 못한 선수 - 직접풀이 2개">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/숀.py" beforeDir="false" afterPath="$PROJECT_DIR$/숀.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/프로그래머스 Lv1/완주하지못한선수.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스 Lv1/완주하지못한선수.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -224,7 +219,8 @@
       <workItem from="1624542664685" duration="603000" />
       <workItem from="1624581105213" duration="1369000" />
       <workItem from="1626866721702" duration="6000" />
-      <workItem from="1633650421998" duration="6182000" />
+      <workItem from="1633650421998" duration="6934000" />
+      <workItem from="1633670623401" duration="13000" />
     </task>
     <task id="LOCAL-00001" summary="문제4번 java 스타일의 swap">
       <created>1620950760095</created>
@@ -338,7 +334,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623977036680</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="완주하지 못한 선수 - 직접풀이 2개">
+      <created>1633656708351</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1633656708352</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -373,7 +376,8 @@
     <MESSAGE value="두개 뽑아서 더하기 1정답" />
     <MESSAGE value="Lv1-01 두 수 뽑아서 더하기 [ 무식하게 해결 ]" />
     <MESSAGE value="Lv1-01 두 수 뽑아서 더하기 [ set으로 간단 해결 ]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lv1-01 두 수 뽑아서 더하기 [ set으로 간단 해결 ]" />
+    <MESSAGE value="완주하지 못한 선수 - 직접풀이 2개" />
+    <option name="LAST_COMMIT_MESSAGE" value="완주하지 못한 선수 - 직접풀이 2개" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -393,7 +397,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonproject$06.coverage" NAME="문제06 Coverage Results" MODIFIED="1624541908534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonproject$.coverage" NAME="완주하지못한선수 Coverage Results" MODIFIED="1633656524385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/프로그래머스 Lv1" />
+    <SUITE FILE_PATH="coverage/pythonproject$.coverage" NAME="완주하지못한선수 Coverage Results" MODIFIED="1633657195621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/프로그래머스 Lv1" />
     <SUITE FILE_PATH="coverage/pythonproject$face.coverage" NAME="face Coverage Results" MODIFIED="1623979883650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonproject$03.coverage" NAME="문제03 Coverage Results" MODIFIED="1620364034863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonproject$__.coverage" NAME="두개 뽑아서 더하기 Coverage Results" MODIFIED="1623977955101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/프로그래머스 Lv1" />
