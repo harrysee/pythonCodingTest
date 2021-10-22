@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13190cd7-ac1c-400a-841f-8329e14d4ddf" name="Default Changelist" comment="완주하지 못한 선수 - 해시사용해서 풀이참조">
-      <change afterPath="$PROJECT_DIR$/프로그래머스 Lv1/길이n0초기화.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/프로그래머스 Lv1/원소갯수카운터.py" afterDir="false" />
+    <list default="true" id="13190cd7-ac1c-400a-841f-8329e14d4ddf" name="Default Changelist" comment="파이썬리스트 로직 (초기화, 카운트)">
+      <change afterPath="$PROJECT_DIR$/프로그래머스 Lv1/range연습.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +51,7 @@
       <recent name="C:\projects\pythonWarkspace\pythonproject\프로그래머스 Lv1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.원소갯수카운터">
+  <component name="RunManager" selected="Python.range연습">
     <configuration name="완주하지못한선수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -163,6 +162,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="range연습" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/프로그래머스 Lv1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스 Lv1/range연습.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,7 +208,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.원소갯수카운터" />
+        <item itemvalue="Python.range연습" />
         <item itemvalue="Python.완주하지못한선수" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.문제08" />
@@ -223,7 +244,9 @@
       <workItem from="1633650421998" duration="6934000" />
       <workItem from="1633670623401" duration="13000" />
       <workItem from="1633673116406" duration="78000" />
-      <workItem from="1634259993137" duration="440000" />
+      <workItem from="1634259993137" duration="812000" />
+      <workItem from="1634387026247" duration="16000" />
+      <workItem from="1634861018450" duration="1417000" />
     </task>
     <task id="LOCAL-00001" summary="문제4번 java 스타일의 swap">
       <created>1620950760095</created>
@@ -351,7 +374,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633673148261</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="파이썬리스트 로직 (초기화, 카운트)">
+      <created>1634260694938</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1634260694938</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -388,7 +418,8 @@
     <MESSAGE value="Lv1-01 두 수 뽑아서 더하기 [ set으로 간단 해결 ]" />
     <MESSAGE value="완주하지 못한 선수 - 직접풀이 2개" />
     <MESSAGE value="완주하지 못한 선수 - 해시사용해서 풀이참조" />
-    <option name="LAST_COMMIT_MESSAGE" value="완주하지 못한 선수 - 해시사용해서 풀이참조" />
+    <MESSAGE value="파이썬리스트 로직 (초기화, 카운트)" />
+    <option name="LAST_COMMIT_MESSAGE" value="파이썬리스트 로직 (초기화, 카운트)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -414,6 +445,7 @@
     <SUITE FILE_PATH="coverage/pythonproject$__.coverage" NAME="두개 뽑아서 더하기 Coverage Results" MODIFIED="1623977955101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/프로그래머스 Lv1" />
     <SUITE FILE_PATH="coverage/pythonproject$Iris.coverage" NAME="Iris Coverage Results" MODIFIED="1624517436990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonproject$04.coverage" NAME="문제04 Coverage Results" MODIFIED="1620954033266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonproject$range.coverage" NAME="range연습 Coverage Results" MODIFIED="1634861840325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/프로그래머스 Lv1" />
     <SUITE FILE_PATH="coverage/pythonproject$07.coverage" NAME="문제07 Coverage Results" MODIFIED="1620955118996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonproject$05_.coverage" NAME="문제05-보조 Coverage Results" MODIFIED="1621557914501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonproject$05.coverage" NAME="문제05 Coverage Results" MODIFIED="1621559012212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
