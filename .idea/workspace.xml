@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13190cd7-ac1c-400a-841f-8329e14d4ddf" name="Default Changelist" comment="기초 알고리즘 5번 - 카운팅">
-      <change afterPath="$PROJECT_DIR$/프로그래머스 Lv1/Bubble_Sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/프로그래머스 Lv1/해당문자카운트.py" afterDir="false" />
+    <list default="true" id="13190cd7-ac1c-400a-841f-8329e14d4ddf" name="Default Changelist" comment="기초 알고리즘 5번 - 특정 문자열 카운트하기">
+      <change afterPath="$PROJECT_DIR$/기초알고리즘/리스트추출.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +51,7 @@
       <recent name="C:\projects\pythonWarkspace\pythonproject\프로그래머스 Lv1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.해당문자카운트">
+  <component name="RunManager" selected="Python.main">
     <configuration name="완주하지못한선수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -75,28 +74,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="해당문자카운트" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonproject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/프로그래머스 Lv1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스 Lv1/해당문자카운트.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="5번문제(카운팅)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,6 +88,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스 Lv1/5번문제(카운팅).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="해당문자카운트" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/프로그래머스 Lv1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스 Lv1/해당문자카운트.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,7 +208,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.해당문자카운트" />
         <item itemvalue="Python.5번문제(카운팅)" />
         <item itemvalue="Python.range연습" />
         <item itemvalue="Python.완주하지못한선수" />
@@ -248,7 +246,8 @@
       <workItem from="1634259993137" duration="812000" />
       <workItem from="1634387026247" duration="16000" />
       <workItem from="1634861018450" duration="4383000" />
-      <workItem from="1635465308300" duration="4155000" />
+      <workItem from="1635465308300" duration="5013000" />
+      <workItem from="1636069658432" duration="1382000" />
     </task>
     <task id="LOCAL-00001" summary="문제4번 java 스타일의 swap">
       <created>1620950760095</created>
@@ -397,7 +396,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634864727025</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="기초 알고리즘 5번 - 특정 문자열 카운트하기">
+      <created>1635487756785</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1635487756786</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -437,7 +443,8 @@
     <MESSAGE value="파이썬리스트 로직 (초기화, 카운트)" />
     <MESSAGE value="기초 알고리즘 3번 - range출력" />
     <MESSAGE value="기초 알고리즘 5번 - 카운팅" />
-    <option name="LAST_COMMIT_MESSAGE" value="기초 알고리즘 5번 - 카운팅" />
+    <MESSAGE value="기초 알고리즘 5번 - 특정 문자열 카운트하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="기초 알고리즘 5번 - 특정 문자열 카운트하기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
