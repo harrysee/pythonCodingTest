@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13190cd7-ac1c-400a-841f-8329e14d4ddf" name="Default Changelist" comment="기초 알고리즘 8번 - zip 내장함수">
-      <change afterPath="$PROJECT_DIR$/CosPro/c4-8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/기초알고리즘/minmax알고리즘.py" afterDir="false" />
+    <list default="true" id="13190cd7-ac1c-400a-841f-8329e14d4ddf" name="Default Changelist" comment="Cos-pro 4차 8번 누가 반장이 될까요?">
+      <change afterPath="$PROJECT_DIR$/CosPro/c4-7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +28,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="2" />
   </component>
   <component name="ProjectId" id="1qGsmu0LBQCA7XbFqhuyBRtKZQI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -273,7 +275,8 @@
       <workItem from="1634861018450" duration="4383000" />
       <workItem from="1635465308300" duration="5013000" />
       <workItem from="1636069658432" duration="5442000" />
-      <workItem from="1637244242038" duration="728000" />
+      <workItem from="1637244242038" duration="817000" />
+      <workItem from="1637324611582" duration="1516000" />
     </task>
     <task id="LOCAL-00001" summary="문제4번 java 스타일의 swap">
       <created>1620950760095</created>
@@ -443,7 +446,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636073033223</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Cos-pro 4차 8번 누가 반장이 될까요?">
+      <created>1637245054519</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1637245054519</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -486,7 +496,8 @@
     <MESSAGE value="기초 알고리즘 5번 - 특정 문자열 카운트하기" />
     <MESSAGE value="기초 알고리즘 7번 - 리스트추출" />
     <MESSAGE value="기초 알고리즘 8번 - zip 내장함수" />
-    <option name="LAST_COMMIT_MESSAGE" value="기초 알고리즘 8번 - zip 내장함수" />
+    <MESSAGE value="Cos-pro 4차 8번 누가 반장이 될까요?" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cos-pro 4차 8번 누가 반장이 될까요?" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
