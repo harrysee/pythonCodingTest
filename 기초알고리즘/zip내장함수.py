@@ -7,6 +7,10 @@ arr2 = [10,20,30,40]
 for z in zip(arr1, arr2):
     print(z)
 
+print('--------------------')
+for i in range(len(arr1)):
+    print(f'({i}, {arr1[i]})')
+
 # zip 코드 직접 짜보기
 for i in range(min(len(arr1),len(arr2))):
     print(f'({arr1[i]}, {arr2[i]})')
