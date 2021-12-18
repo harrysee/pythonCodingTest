@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13190cd7-ac1c-400a-841f-8329e14d4ddf" name="Default Changelist" comment="코스프로 1-8 펠린드롬 판단하기">
-      <change afterPath="$PROJECT_DIR$/CosPro/c2-1.py" afterDir="false" />
+    <list default="true" id="13190cd7-ac1c-400a-841f-8329e14d4ddf" name="Default Changelist" comment="코스프로 2-1 최대한 많은 쌍의 장갑갯수 구하기">
+      <change afterPath="$PROJECT_DIR$/CosPro/c2-2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -259,7 +259,8 @@
       <workItem from="1637549019444" duration="6000" />
       <workItem from="1637880014122" duration="1600000" />
       <workItem from="1639299899624" duration="976000" />
-      <workItem from="1639577369034" duration="642000" />
+      <workItem from="1639577369034" duration="689000" />
+      <workItem from="1639837591562" duration="589000" />
     </task>
     <task id="LOCAL-00001" summary="문제4번 java 스타일의 swap">
       <created>1620950760095</created>
@@ -457,7 +458,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639300895136</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="코스프로 2-1 최대한 많은 쌍의 장갑갯수 구하기">
+      <created>1639578059716</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1639578059716</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -476,7 +484,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="문제6번 정답 1" />
     <MESSAGE value="문제6번 정답 2" />
     <MESSAGE value="문제7번" />
     <MESSAGE value="문제7번 정답" />
@@ -501,7 +508,8 @@
     <MESSAGE value="Cos-pro 4차 7번 - 오른 점수와 떨어진 점수 구하기" />
     <MESSAGE value="기초 알고리즘 5번 큰수 카운트" />
     <MESSAGE value="코스프로 1-8 펠린드롬 판단하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="코스프로 1-8 펠린드롬 판단하기" />
+    <MESSAGE value="코스프로 2-1 최대한 많은 쌍의 장갑갯수 구하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="코스프로 2-1 최대한 많은 쌍의 장갑갯수 구하기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
