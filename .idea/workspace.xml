@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13190cd7-ac1c-400a-841f-8329e14d4ddf" name="Default Changelist" comment="백준 2775 부녀회장이 될테야">
-      <change afterPath="$PROJECT_DIR$/백준/백준 2839.py" afterDir="false" />
+    <list default="true" id="13190cd7-ac1c-400a-841f-8329e14d4ddf" name="Default Changelist" comment="백준 2839 설탕배달">
+      <change afterPath="$PROJECT_DIR$/백준/백 10757.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/백준 2775.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준/백준 2775.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -292,7 +293,8 @@
       <workItem from="1642594432887" duration="607000" />
       <workItem from="1642920869140" duration="2784000" />
       <workItem from="1643697050866" duration="5499000" />
-      <workItem from="1643944777381" duration="4099000" />
+      <workItem from="1643944777381" duration="4572000" />
+      <workItem from="1644032956824" duration="1396000" />
     </task>
     <task id="LOCAL-00001" summary="문제4번 java 스타일의 swap">
       <created>1620950760095</created>
@@ -525,7 +527,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643946303080</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="백준 2839 설탕배달">
+      <created>1643948923282</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1643948923282</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -544,7 +553,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="문제5번 보조2" />
     <MESSAGE value="문제5번 보조3" />
     <MESSAGE value="문제5번 보조문제 완성" />
     <MESSAGE value="문제5번 완성" />
@@ -569,7 +577,8 @@
     <MESSAGE value="백준 10250 ACM 호텔" />
     <MESSAGE value="백준 1193 분수찾기" />
     <MESSAGE value="백준 2775 부녀회장이 될테야" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 2775 부녀회장이 될테야" />
+    <MESSAGE value="백준 2839 설탕배달" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 2839 설탕배달" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -608,11 +617,6 @@
           <url>file://$PROJECT_DIR$/백준/백준 1316.py</url>
           <line>7</line>
           <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/백준2941.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
