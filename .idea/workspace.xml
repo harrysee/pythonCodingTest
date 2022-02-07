@@ -1,9 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13190cd7-ac1c-400a-841f-8329e14d4ddf" name="Default Changelist" comment="백준 1978 소수 찾기">
-      <change afterPath="$PROJECT_DIR$/백준/백준 2581.py" afterDir="false" />
+    <list default="true" id="13190cd7-ac1c-400a-841f-8329e14d4ddf" name="Default Changelist" comment="백준 2581 소수">
+      <change afterPath="$PROJECT_DIR$/백준/백 11653.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/코드업기초100/소리파일.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/face.py" beforeDir="false" afterPath="$PROJECT_DIR$/CosPro/face.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/holistic.py" beforeDir="false" afterPath="$PROJECT_DIR$/CosPro/holistic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/CosPro/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pose.py" beforeDir="false" afterPath="$PROJECT_DIR$/CosPro/pose.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/CosPro/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/레모네이드.py" beforeDir="false" afterPath="$PROJECT_DIR$/CosPro/레모네이드.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/문제03.py" beforeDir="false" afterPath="$PROJECT_DIR$/CosPro/문제03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/문제04.py" beforeDir="false" afterPath="$PROJECT_DIR$/CosPro/문제04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/문제05-보조.py" beforeDir="false" afterPath="$PROJECT_DIR$/CosPro/문제05-보조.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/문제05.py" beforeDir="false" afterPath="$PROJECT_DIR$/CosPro/문제05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/문제06.py" beforeDir="false" afterPath="$PROJECT_DIR$/CosPro/문제06.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/문제07-01필터링.py" beforeDir="false" afterPath="$PROJECT_DIR$/CosPro/문제07-01필터링.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/문제07.py" beforeDir="false" afterPath="$PROJECT_DIR$/CosPro/문제07.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/문제08.py" beforeDir="false" afterPath="$PROJECT_DIR$/CosPro/문제08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/문제09.py" beforeDir="false" afterPath="$PROJECT_DIR$/CosPro/문제09.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/숀.py" beforeDir="false" afterPath="$PROJECT_DIR$/CosPro/숀.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,11 +69,12 @@
       <recent name="C:\projects\pythonWarkspace\pythonproject\프로그래머스 Lv1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\projects\pythonWarkspace\pythonproject\CosPro" />
       <recent name="C:\projects\pythonWarkspace\pythonproject\프로그래머스 Lv1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.백준 2581">
-    <configuration name="백준 1011" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.백준 11653">
+    <configuration name="백준 11653" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,7 +87,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/백준 1011.py" />
+      <option name="SCRIPT_NAME" value="C:\projects\pythonWarkspace\pythonproject\백준\백준 11653.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="백준 2839" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="소리파일" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,34 +148,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/코드업기초100" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/백준 2839.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="혼공파" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonproject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/기초알고리즘" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/기초알고리즘/혼공파.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/코드업기초100/소리파일.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,7 +175,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="C:\projects\pythonWarkspace\pythonproject\CosPro\main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.백준 11653" />
+        <item itemvalue="Python.소리파일" />
         <item itemvalue="Python.백준 2581" />
         <item itemvalue="Python.백준 1978" />
         <item itemvalue="Python.sum_all" />
-        <item itemvalue="Python.백준 1011" />
-        <item itemvalue="Python.백준 2839" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +268,10 @@
       <workItem from="1643697050866" duration="5499000" />
       <workItem from="1643944777381" duration="4572000" />
       <workItem from="1644032956824" duration="7517000" />
-      <workItem from="1644121103165" duration="5137000" />
+      <workItem from="1644121103165" duration="5177000" />
+      <workItem from="1644136696930" duration="33000" />
+      <workItem from="1644198616024" duration="2222000" />
+      <workItem from="1644214829530" duration="2365000" />
     </task>
     <task id="LOCAL-00001" summary="문제4번 java 스타일의 swap">
       <created>1620950760095</created>
@@ -533,7 +532,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644132851045</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="백준 2581 소수">
+      <created>1644136032200</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1644136032200</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -552,7 +558,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="문제5번 완성2" />
     <MESSAGE value="두개 뽑아서 더하기 1정답" />
     <MESSAGE value="Lv1-01 두 수 뽑아서 더하기 [ 무식하게 해결 ]" />
     <MESSAGE value="Lv1-01 두 수 뽑아서 더하기 [ set으로 간단 해결 ]" />
@@ -577,18 +582,19 @@
     <MESSAGE value="백준 10757 큰수 A+B" />
     <MESSAGE value="백준 1011 Fly me to the Alpha Centauri" />
     <MESSAGE value="백준 1978 소수 찾기" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 1978 소수 찾기" />
+    <MESSAGE value="백준 2581 소수" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 2581 소수" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/문제04.py</url>
+          <url>file://$PROJECT_DIR$/CosPro/문제04.py</url>
           <line>1</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test.py</url>
+          <url>file://$PROJECT_DIR$/CosPro/test.py</url>
           <line>1</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
@@ -643,8 +649,9 @@
     <SUITE FILE_PATH="coverage/pythonproject$08.coverage" NAME="문제08 Coverage Results" MODIFIED="1624542313693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonproject$2675.coverage" NAME="백준2675 Coverage Results" MODIFIED="1639966804079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
     <SUITE FILE_PATH="coverage/pythonproject$06.coverage" NAME="문제06 Coverage Results" MODIFIED="1624541908534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonproject$.coverage" NAME="연도 Coverage Results" MODIFIED="1642922856624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/혼공파" />
     <SUITE FILE_PATH="coverage/pythonproject$_1978.coverage" NAME="백준 1978 Coverage Results" MODIFIED="1644132760392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
+    <SUITE FILE_PATH="coverage/pythonproject$.coverage" NAME="소리파일 Coverage Results" MODIFIED="1644220515258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업기초100" />
+    <SUITE FILE_PATH="coverage/pythonproject$_11653.coverage" NAME="백 11653 Coverage Results" MODIFIED="1644220705654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
     <SUITE FILE_PATH="coverage/pythonproject$face.coverage" NAME="face Coverage Results" MODIFIED="1623979883650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonproject$03.coverage" NAME="문제03 Coverage Results" MODIFIED="1620364034863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonproject$1157.coverage" NAME="백준1157 Coverage Results" MODIFIED="1639969737239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
