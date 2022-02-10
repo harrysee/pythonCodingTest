@@ -19,10 +19,7 @@ M,N = map(int, input().split())
 # range(2, i**0.5+1)
 
 # 고친 방법
-<<<<<<< HEAD
 if M==1: M+=1   # 1일때는 소수가 아니니 2로 만들어주기
-=======
->>>>>>> origin/master
 for i in range(M,N+1):
     end =1
     for j in range(2,int(i**0.5)+1):
