@@ -26,6 +26,7 @@ sortnum = list()
 for i in range(t):
     sortnum.append(int(sys.stdin.readline()))
 
-quick_sort(sortnum,0,len(sortnum)-1)
+sortnum.sort()
+# quick_sort(sortnum,0,len(sortnum)-1)
 for s in sortnum:
     print(s)
