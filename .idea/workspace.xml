@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13190cd7-ac1c-400a-841f-8329e14d4ddf" name="Default Changelist" comment="백준 15651 N과 M (3)">
-      <change afterPath="$PROJECT_DIR$/백준/백준 15652.py" afterDir="false" />
+    <list default="true" id="13190cd7-ac1c-400a-841f-8329e14d4ddf" name="Default Changelist" comment="백준 15652 N과 M (4)">
+      <change afterPath="$PROJECT_DIR$/백준/백준 9663.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +57,7 @@
       <recent name="C:\projects\pythonWarkspace\pythonproject\프로그래머스 Lv1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.백준 15652">
+  <component name="RunManager" selected="Python.백준 9663">
     <configuration name="백준 15649" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="백준 18870" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="백준 9663" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,7 +159,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/백준 18870.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/백준 9663.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.백준 9663" />
         <item itemvalue="Python.백준 15652" />
         <item itemvalue="Python.백준 15651" />
         <item itemvalue="Python.백준 15650" />
         <item itemvalue="Python.백준 15649" />
-        <item itemvalue="Python.백준 18870" />
       </list>
     </recent_temporary>
   </component>
@@ -272,14 +272,9 @@
       <workItem from="1645521973506" duration="3671000" />
       <workItem from="1645695122816" duration="18502000" />
       <workItem from="1646054871040" duration="2738000" />
-      <workItem from="1646096897370" duration="1356000" />
-    </task>
-    <task id="LOCAL-00018" summary="완주하지 못한 선수 - 해시사용해서 풀이참조">
-      <created>1633673148261</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1633673148261</updated>
+      <workItem from="1646096897370" duration="1980000" />
+      <workItem from="1646184195698" duration="996000" />
+      <workItem from="1646201938981" duration="8364000" />
     </task>
     <task id="LOCAL-00019" summary="파이썬리스트 로직 (초기화, 카운트)">
       <created>1634260694938</created>
@@ -617,7 +612,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646097916353</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="백준 15652 N과 M (4)">
+      <created>1646098276028</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1646098276028</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -636,7 +638,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="백준 3053 택시 기하학" />
     <MESSAGE value="백준 1002 터렛" />
     <MESSAGE value="백준 10872 팩토리얼" />
     <MESSAGE value="백준 10870 피보나치 수 5" />
@@ -661,7 +662,8 @@
     <MESSAGE value="백준 15649 N과 M (1)" />
     <MESSAGE value="백준 15650 N과 M (2)" />
     <MESSAGE value="백준 15651 N과 M (3)" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 15651 N과 M (3)" />
+    <MESSAGE value="백준 15652 N과 M (4)" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 15652 N과 M (4)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -780,6 +782,7 @@
     <SUITE FILE_PATH="coverage/pythonproject$_1011.coverage" NAME="백준 1011 Coverage Results" MODIFIED="1644050190203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
     <SUITE FILE_PATH="coverage/pythonproject$_1002.coverage" NAME="백준 1002 Coverage Results" MODIFIED="1644552966379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
     <SUITE FILE_PATH="coverage/pythonproject$_2798.coverage" NAME="백준 2798 Coverage Results" MODIFIED="1644886969839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
+    <SUITE FILE_PATH="coverage/pythonproject$_9663.coverage" NAME="백준 9663 Coverage Results" MODIFIED="1646212279792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
     <SUITE FILE_PATH="coverage/pythonproject$_11651.coverage" NAME="백준 11651 Coverage Results" MODIFIED="1645523368628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
     <SUITE FILE_PATH="coverage/pythonproject$__.coverage" NAME="두개 뽑아서 더하기 Coverage Results" MODIFIED="1623977955101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/프로그래머스 Lv1" />
     <SUITE FILE_PATH="coverage/pythonproject$minmax_dkfrhflwma.coverage" NAME="minmax dkfrhflwma Coverage Results" MODIFIED="1636073902245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/기초알고리즘" />
