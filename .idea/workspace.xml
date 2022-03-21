@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13190cd7-ac1c-400a-841f-8329e14d4ddf" name="Default Changelist" comment="그리디 - 1이 될 때까지">
-      <change afterPath="$PROJECT_DIR$/이코테알고리즘/상하좌우.py" afterDir="false" />
+    <list default="true" id="13190cd7-ac1c-400a-841f-8329e14d4ddf" name="Default Changelist" comment="구현 - 상하좌우">
+      <change afterPath="$PROJECT_DIR$/이코테알고리즘/시각.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +74,7 @@
       <recent name="C:\projects\pythonWarkspace\pythonproject\프로그래머스 Lv1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.상하좌우">
+  <component name="RunManager" selected="Python.시각">
     <configuration name="백준 1003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -162,6 +163,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="시각" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이코테알고리즘" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이코테알고리즘/시각.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="숫자카드게임" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -206,35 +229,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="subsets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonproject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/알고리즘문제" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/알고리즘문제/subsets.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.시각" />
         <item itemvalue="Python.상하좌우" />
         <item itemvalue="Python.1이될때까지" />
         <item itemvalue="Python.큰수의법칙" />
         <item itemvalue="Python.백준 1003" />
-        <item itemvalue="Python.subsets" />
       </list>
     </recent_temporary>
   </component>
@@ -321,14 +322,7 @@
       <workItem from="1647746692016" duration="2237000" />
       <workItem from="1647763496206" duration="6132000" />
       <workItem from="1647772476224" duration="68000" />
-      <workItem from="1647817532133" duration="4036000" />
-    </task>
-    <task id="LOCAL-00026" summary="Cos-pro 4차 7번 - 오른 점수와 떨어진 점수 구하기">
-      <created>1637337417480</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1637337417480</updated>
+      <workItem from="1647817532133" duration="8853000" />
     </task>
     <task id="LOCAL-00027" summary="기초 알고리즘 5번 큰수 카운트">
       <created>1637494010294</created>
@@ -666,7 +660,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647771483202</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="구현 - 상하좌우">
+      <created>1647829232081</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1647829232081</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -685,7 +686,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="백준 2798 블랙잭" />
     <MESSAGE value="백준 2231 분해합" />
     <MESSAGE value="백준 7568 덩치" />
     <MESSAGE value="백준 1018 체스판 다시 칠하기" />
@@ -710,7 +710,8 @@
     <MESSAGE value="그리디 - 큰 수의 법칙" />
     <MESSAGE value="그리디 - 숫자 카드 게임" />
     <MESSAGE value="그리디 - 1이 될 때까지" />
-    <option name="LAST_COMMIT_MESSAGE" value="그리디 - 1이 될 때까지" />
+    <MESSAGE value="구현 - 상하좌우" />
+    <option name="LAST_COMMIT_MESSAGE" value="구현 - 상하좌우" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -811,7 +812,7 @@
     <SUITE FILE_PATH="coverage/pythonproject$_11653.coverage" NAME="백준 11653 Coverage Results" MODIFIED="1644223264704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
     <SUITE FILE_PATH="coverage/pythonproject$_3053.coverage" NAME="백준 3053 Coverage Results" MODIFIED="1644500901535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
     <SUITE FILE_PATH="coverage/pythonproject$_10872.coverage" NAME="백준 10872 Coverage Results" MODIFIED="1644747023278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
-    <SUITE FILE_PATH="coverage/pythonproject$.coverage" NAME="상하좌우 Coverage Results" MODIFIED="1647829117873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테알고리즘" />
+    <SUITE FILE_PATH="coverage/pythonproject$.coverage" NAME="시각 Coverage Results" MODIFIED="1647850086841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테알고리즘" />
     <SUITE FILE_PATH="coverage/pythonproject$_2480.coverage" NAME="백준 2480 Coverage Results" MODIFIED="1644805483683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
     <SUITE FILE_PATH="coverage/pythonproject$_10757.coverage" NAME="백준 10757 Coverage Results" MODIFIED="1644751039035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
     <SUITE FILE_PATH="coverage/pythonproject$03.coverage" NAME="문제03 Coverage Results" MODIFIED="1620364034863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
