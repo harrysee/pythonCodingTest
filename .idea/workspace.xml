@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13190cd7-ac1c-400a-841f-8329e14d4ddf" name="Default Changelist" comment="구현 - 왕실의 나이트">
-      <change afterPath="$PROJECT_DIR$/이코테알고리즘/게임개발.py" afterDir="false" />
+    <list default="true" id="13190cd7-ac1c-400a-841f-8329e14d4ddf" name="Default Changelist" comment="구현(시뮬레이션) - 게임 개발">
+      <change afterPath="$PROJECT_DIR$/이코테알고리즘/Chapters/dfs5-8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,12 +69,13 @@
       <recent name="C:\projects\pythonWarkspace\pythonproject\프로그래머스 Lv1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\projects\pythonWarkspace\pythonproject\이코테알고리즘\Chapters" />
       <recent name="C:\projects\pythonWarkspace\pythonproject\알고리즘문제" />
       <recent name="C:\projects\pythonWarkspace\pythonproject\CosPro" />
       <recent name="C:\projects\pythonWarkspace\pythonproject\프로그래머스 Lv1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.게임개발">
+  <component name="RunManager" selected="Python.main">
     <configuration name="백준 1003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -274,8 +276,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.게임개발" />
-        <item itemvalue="Python.왕실의나이트" />
         <item itemvalue="Python.1이될때까지" />
         <item itemvalue="Python.큰수의법칙" />
         <item itemvalue="Python.백준 1003" />
@@ -366,14 +366,9 @@
       <workItem from="1647763496206" duration="6132000" />
       <workItem from="1647772476224" duration="68000" />
       <workItem from="1647817532133" duration="9493000" />
-      <workItem from="1647854119376" duration="6622000" />
-    </task>
-    <task id="LOCAL-00029" summary="코스프로 2-1 최대한 많은 쌍의 장갑갯수 구하기">
-      <created>1639578059716</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1639578059716</updated>
+      <workItem from="1647854119376" duration="6667000" />
+      <workItem from="1647868556340" duration="589000" />
+      <workItem from="1648027133708" duration="3154000" />
     </task>
     <task id="LOCAL-00030" summary="더 많은 배수 구하기">
       <created>1639838200197</created>
@@ -711,7 +706,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647857006963</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="구현(시뮬레이션) - 게임 개발">
+      <created>1647862302680</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1647862302680</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -730,7 +732,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="백준 1018 체스판 다시 칠하기" />
     <MESSAGE value="백준 1436 영화감독 숌" />
     <MESSAGE value="백준 2750 수 정렬하기" />
     <MESSAGE value="백준 10989 수 정렬하기 3" />
@@ -755,7 +756,8 @@
     <MESSAGE value="구현 - 상하좌우" />
     <MESSAGE value="구현 - 시각" />
     <MESSAGE value="구현 - 왕실의 나이트" />
-    <option name="LAST_COMMIT_MESSAGE" value="구현 - 왕실의 나이트" />
+    <MESSAGE value="구현(시뮬레이션) - 게임 개발" />
+    <option name="LAST_COMMIT_MESSAGE" value="구현(시뮬레이션) - 게임 개발" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
