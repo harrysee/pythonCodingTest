@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13190cd7-ac1c-400a-841f-8329e14d4ddf" name="Default Changelist" comment="구현(시뮬레이션) - 게임 개발">
-      <change afterPath="$PROJECT_DIR$/이코테알고리즘/Chapters/dfs5-8.py" afterDir="false" />
+    <list default="true" id="13190cd7-ac1c-400a-841f-8329e14d4ddf" name="Default Changelist" comment="DFS : 깊이우선탐색 실습">
+      <change afterPath="$PROJECT_DIR$/이코테알고리즘/Chapters/bfs5-9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +74,7 @@
       <recent name="C:\projects\pythonWarkspace\pythonproject\프로그래머스 Lv1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.bfs5-9">
     <configuration name="백준 1003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -252,6 +251,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="bfs5-9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이코테알고리즘/Chapters" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이코테알고리즘/Chapters/bfs5-9.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -276,6 +297,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bfs5-9" />
         <item itemvalue="Python.1이될때까지" />
         <item itemvalue="Python.큰수의법칙" />
         <item itemvalue="Python.백준 1003" />
@@ -368,14 +390,7 @@
       <workItem from="1647817532133" duration="9493000" />
       <workItem from="1647854119376" duration="6667000" />
       <workItem from="1647868556340" duration="589000" />
-      <workItem from="1648027133708" duration="3154000" />
-    </task>
-    <task id="LOCAL-00030" summary="더 많은 배수 구하기">
-      <created>1639838200197</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1639838200197</updated>
+      <workItem from="1648027133708" duration="4853000" />
     </task>
     <task id="LOCAL-00031" summary="백준 10250 ACM 호텔">
       <created>1643707197643</created>
@@ -713,7 +728,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647862302680</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="DFS : 깊이우선탐색 실습">
+      <created>1648041806001</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1648041806003</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -732,7 +754,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="백준 1436 영화감독 숌" />
     <MESSAGE value="백준 2750 수 정렬하기" />
     <MESSAGE value="백준 10989 수 정렬하기 3" />
     <MESSAGE value="백준 2108 통계학" />
@@ -757,7 +778,8 @@
     <MESSAGE value="구현 - 시각" />
     <MESSAGE value="구현 - 왕실의 나이트" />
     <MESSAGE value="구현(시뮬레이션) - 게임 개발" />
-    <option name="LAST_COMMIT_MESSAGE" value="구현(시뮬레이션) - 게임 개발" />
+    <MESSAGE value="DFS : 깊이우선탐색 실습" />
+    <option name="LAST_COMMIT_MESSAGE" value="DFS : 깊이우선탐색 실습" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
