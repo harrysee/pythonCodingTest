@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13190cd7-ac1c-400a-841f-8329e14d4ddf" name="Default Changelist" comment="이코테 실습 : 선택정렬">
-      <change afterPath="$PROJECT_DIR$/이코테알고리즘/Chapters/정렬-삽입정렬.py" afterDir="false" />
+    <list default="true" id="13190cd7-ac1c-400a-841f-8329e14d4ddf" name="Default Changelist" comment="이코테 실습 : 삽입정렬">
+      <change afterPath="$PROJECT_DIR$/이코테알고리즘/Chapters/정렬-퀵정렬.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이코테알고리즘/Chapters/정렬-삽입정렬.py" beforeDir="false" afterPath="$PROJECT_DIR$/이코테알고리즘/Chapters/정렬-삽입정렬.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -414,14 +415,7 @@
       <workItem from="1648027133708" duration="5023000" />
       <workItem from="1648081927758" duration="10906000" />
       <workItem from="1648181543826" duration="1493000" />
-      <workItem from="1648302511962" duration="511000" />
-    </task>
-    <task id="LOCAL-00035" summary="백준 10757 큰수 A+B">
-      <created>1644044575737</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1644044575737</updated>
+      <workItem from="1648302511962" duration="2252000" />
     </task>
     <task id="LOCAL-00036" summary="백준 1011 Fly me to the Alpha Centauri">
       <created>1644051499692</created>
@@ -759,7 +753,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648182541626</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="이코테 실습 : 삽입정렬">
+      <created>1648303038651</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1648303038652</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -778,7 +779,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="백준 11650 좌표정렬하기" />
     <MESSAGE value="백준 11651 좌표정렬하기2" />
     <MESSAGE value="백준 1181 단어 정렬" />
     <MESSAGE value="백준 10814 나이순정렬" />
@@ -803,7 +803,8 @@
     <MESSAGE value="DFS/BFS -음료수 얼려먹기" />
     <MESSAGE value="DFS/BFS - 미로찾기" />
     <MESSAGE value="이코테 실습 : 선택정렬" />
-    <option name="LAST_COMMIT_MESSAGE" value="이코테 실습 : 선택정렬" />
+    <MESSAGE value="이코테 실습 : 삽입정렬" />
+    <option name="LAST_COMMIT_MESSAGE" value="이코테 실습 : 삽입정렬" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
