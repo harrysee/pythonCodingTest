@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13190cd7-ac1c-400a-841f-8329e14d4ddf" name="Default Changelist" comment="DFS/BFS - 미로찾기">
-      <change afterPath="$PROJECT_DIR$/이코테알고리즘/Chapters/정렬-선택정렬.py" afterDir="false" />
+    <list default="true" id="13190cd7-ac1c-400a-841f-8329e14d4ddf" name="Default Changelist" comment="이코테 실습 : 선택정렬">
+      <change afterPath="$PROJECT_DIR$/이코테알고리즘/Chapters/정렬-삽입정렬.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -413,14 +413,8 @@
       <workItem from="1647868556340" duration="589000" />
       <workItem from="1648027133708" duration="5023000" />
       <workItem from="1648081927758" duration="10906000" />
-      <workItem from="1648181543826" duration="923000" />
-    </task>
-    <task id="LOCAL-00034" summary="백준 2839 설탕배달">
-      <created>1643948923282</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1643948923282</updated>
+      <workItem from="1648181543826" duration="1493000" />
+      <workItem from="1648302511962" duration="511000" />
     </task>
     <task id="LOCAL-00035" summary="백준 10757 큰수 A+B">
       <created>1644044575737</created>
@@ -758,7 +752,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648108251481</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="이코테 실습 : 선택정렬">
+      <created>1648182541626</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1648182541626</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -777,7 +778,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="백준 1427 소트인사이드" />
     <MESSAGE value="백준 11650 좌표정렬하기" />
     <MESSAGE value="백준 11651 좌표정렬하기2" />
     <MESSAGE value="백준 1181 단어 정렬" />
@@ -802,7 +802,8 @@
     <MESSAGE value="BFS : 넓이우선탐색 실습" />
     <MESSAGE value="DFS/BFS -음료수 얼려먹기" />
     <MESSAGE value="DFS/BFS - 미로찾기" />
-    <option name="LAST_COMMIT_MESSAGE" value="DFS/BFS - 미로찾기" />
+    <MESSAGE value="이코테 실습 : 선택정렬" />
+    <option name="LAST_COMMIT_MESSAGE" value="이코테 실습 : 선택정렬" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
