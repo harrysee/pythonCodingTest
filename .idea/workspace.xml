@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13190cd7-ac1c-400a-841f-8329e14d4ddf" name="Default Changelist" comment="이코테 실습 : 퀵정렬">
-      <change afterPath="$PROJECT_DIR$/이코테알고리즘/Chapters/정렬-계수정렬.py" afterDir="false" />
+    <list default="true" id="13190cd7-ac1c-400a-841f-8329e14d4ddf" name="Default Changelist" comment="이코테 실습 : 계수정렬">
+      <change afterPath="$PROJECT_DIR$/이코테알고리즘/Chapters/정렬-정렬라이브러리_정리.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -414,14 +414,7 @@
       <workItem from="1648027133708" duration="5023000" />
       <workItem from="1648081927758" duration="10906000" />
       <workItem from="1648181543826" duration="1493000" />
-      <workItem from="1648302511962" duration="3533000" />
-    </task>
-    <task id="LOCAL-00037" summary="백준 1978 소수 찾기">
-      <created>1644132851045</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1644132851045</updated>
+      <workItem from="1648302511962" duration="4071000" />
     </task>
     <task id="LOCAL-00038" summary="백준 2581 소수">
       <created>1644136032200</created>
@@ -759,7 +752,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648304794801</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="이코테 실습 : 계수정렬">
+      <created>1648306089025</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1648306089026</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -778,7 +778,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="백준 1181 단어 정렬" />
     <MESSAGE value="백준 10814 나이순정렬" />
     <MESSAGE value="백준 18870 좌표압축" />
     <MESSAGE value="백준 15649 N과 M (1)" />
@@ -803,7 +802,8 @@
     <MESSAGE value="이코테 실습 : 선택정렬" />
     <MESSAGE value="이코테 실습 : 삽입정렬" />
     <MESSAGE value="이코테 실습 : 퀵정렬" />
-    <option name="LAST_COMMIT_MESSAGE" value="이코테 실습 : 퀵정렬" />
+    <MESSAGE value="이코테 실습 : 계수정렬" />
+    <option name="LAST_COMMIT_MESSAGE" value="이코테 실습 : 계수정렬" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
