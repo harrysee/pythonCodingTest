@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13190cd7-ac1c-400a-841f-8329e14d4ddf" name="Default Changelist" comment="이코테 실습 : 계수정렬">
-      <change afterPath="$PROJECT_DIR$/이코테알고리즘/Chapters/정렬-정렬라이브러리_정리.py" afterDir="false" />
+    <list default="true" id="13190cd7-ac1c-400a-841f-8329e14d4ddf" name="Default Changelist" comment="이코테 실습 : 정렬라이브러리">
+      <change afterPath="$PROJECT_DIR$/이코테알고리즘/위에서아래로.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이코테알고리즘/Chapters/정렬-정렬라이브러리_정리.py" beforeDir="false" afterPath="$PROJECT_DIR$/이코테알고리즘/Chapters/정렬-정렬라이브러리_정리.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +75,7 @@
       <recent name="C:\projects\pythonWarkspace\pythonproject\프로그래머스 Lv1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.위에서아래로">
     <configuration name="큰수의법칙" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,6 +112,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이코테알고리즘/1이될때까지.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="위에서아래로" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이코테알고리즘" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이코테알고리즘/위에서아래로.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -319,6 +342,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.위에서아래로" />
         <item itemvalue="Python.bfs5-9" />
         <item itemvalue="Python.1이될때까지" />
         <item itemvalue="Python.큰수의법칙" />
@@ -414,14 +438,8 @@
       <workItem from="1648027133708" duration="5023000" />
       <workItem from="1648081927758" duration="10906000" />
       <workItem from="1648181543826" duration="1493000" />
-      <workItem from="1648302511962" duration="4071000" />
-    </task>
-    <task id="LOCAL-00038" summary="백준 2581 소수">
-      <created>1644136032200</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1644136032200</updated>
+      <workItem from="1648302511962" duration="4102000" />
+      <workItem from="1648363200035" duration="358000" />
     </task>
     <task id="LOCAL-00039" summary="백준 4153 직각삼각형">
       <created>1644461546298</created>
@@ -759,7 +777,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648306089026</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="이코테 실습 : 정렬라이브러리">
+      <created>1648306628489</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1648306628489</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -778,7 +803,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="백준 10814 나이순정렬" />
     <MESSAGE value="백준 18870 좌표압축" />
     <MESSAGE value="백준 15649 N과 M (1)" />
     <MESSAGE value="백준 15650 N과 M (2)" />
@@ -803,7 +827,8 @@
     <MESSAGE value="이코테 실습 : 삽입정렬" />
     <MESSAGE value="이코테 실습 : 퀵정렬" />
     <MESSAGE value="이코테 실습 : 계수정렬" />
-    <option name="LAST_COMMIT_MESSAGE" value="이코테 실습 : 계수정렬" />
+    <MESSAGE value="이코테 실습 : 정렬라이브러리" />
+    <option name="LAST_COMMIT_MESSAGE" value="이코테 실습 : 정렬라이브러리" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -915,7 +940,7 @@
     <SUITE FILE_PATH="coverage/pythonproject$_11653.coverage" NAME="백준 11653 Coverage Results" MODIFIED="1644223264704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
     <SUITE FILE_PATH="coverage/pythonproject$_3053.coverage" NAME="백준 3053 Coverage Results" MODIFIED="1644500901535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
     <SUITE FILE_PATH="coverage/pythonproject$_10872.coverage" NAME="백준 10872 Coverage Results" MODIFIED="1644747023278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
-    <SUITE FILE_PATH="coverage/pythonproject$.coverage" NAME="미로탈출 Coverage Results" MODIFIED="1648107455016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테알고리즘" />
+    <SUITE FILE_PATH="coverage/pythonproject$.coverage" NAME="위에서아래로 Coverage Results" MODIFIED="1648363402512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테알고리즘" />
     <SUITE FILE_PATH="coverage/pythonproject$_2480.coverage" NAME="백준 2480 Coverage Results" MODIFIED="1644805483683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
     <SUITE FILE_PATH="coverage/pythonproject$_10757.coverage" NAME="백준 10757 Coverage Results" MODIFIED="1644751039035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
     <SUITE FILE_PATH="coverage/pythonproject$03.coverage" NAME="문제03 Coverage Results" MODIFIED="1620364034863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -926,7 +951,7 @@
     <SUITE FILE_PATH="coverage/pythonproject$_1427.coverage" NAME="백준 1427 Coverage Results" MODIFIED="1645267521741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
     <SUITE FILE_PATH="coverage/pythonproject$holistic.coverage" NAME="holistic Coverage Results" MODIFIED="1623979660008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonproject$_9020.coverage" NAME="백준 9020 Coverage Results" MODIFIED="1644389401409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
-    <SUITE FILE_PATH="coverage/pythonproject$main.coverage" NAME="main Coverage Results" MODIFIED="1648043369313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonproject$main.coverage" NAME="main Coverage Results" MODIFIED="1648363399170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonproject$_1018.coverage" NAME="백준 1018 Coverage Results" MODIFIED="1644987956175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
     <SUITE FILE_PATH="coverage/pythonproject$_.coverage" NAME="혼공파 에러 Coverage Results" MODIFIED="1645351338980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/기초알고리즘" />
     <SUITE FILE_PATH="coverage/pythonproject$_7568.coverage" NAME="백준 7568 Coverage Results" MODIFIED="1644986239693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />

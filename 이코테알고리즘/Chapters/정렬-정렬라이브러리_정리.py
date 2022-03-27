@@ -3,7 +3,7 @@
 # 2. sort  : 리스트만 가능 -> 직접적으로 값을 바꿈(파괴적 처리)
 # 3. 정렬 속성
     # a. sorted/sort에 key로 정렬기준 주기 : key=lamda x -> x[0]
-    # b. reversed =True : 내림차순
+    # b. reverse =True : 내림차순
 
 array = [7,5,9,0,3,1,6,2,4,8]
 
