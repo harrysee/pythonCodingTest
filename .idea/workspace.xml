@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13190cd7-ac1c-400a-841f-8329e14d4ddf" name="Default Changelist" comment="정렬 : 성적이 낮은 순서로 학생 출력하기">
-      <change afterPath="$PROJECT_DIR$/이코테알고리즘/두배열의원소교체.py" afterDir="false" />
+    <list default="true" id="13190cd7-ac1c-400a-841f-8329e14d4ddf" name="Default Changelist" comment="정렬 : 두 배열의 원소 교체">
+      <change afterPath="$PROJECT_DIR$/이코테알고리즘/Chapters/탐색-이진탐색.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,6 +111,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이코테알고리즘/1이될때까지.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="숫자카드게임" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이코테알고리즘" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이코테알고리즘/숫자카드게임.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -296,28 +317,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="숫자카드게임" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonproject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이코테알고리즘" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이코테알고리즘/숫자카드게임.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="bfs5-9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -365,8 +364,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.두배열의원소교체" />
-        <item itemvalue="Python.성적이낮은순서로학생출력" />
-        <item itemvalue="Python.위에서아래로" />
         <item itemvalue="Python.bfs5-9" />
         <item itemvalue="Python.1이될때까지" />
       </list>
@@ -462,14 +459,8 @@
       <workItem from="1648081927758" duration="10906000" />
       <workItem from="1648181543826" duration="1493000" />
       <workItem from="1648302511962" duration="4102000" />
-      <workItem from="1648363200035" duration="2645000" />
-    </task>
-    <task id="LOCAL-00041" summary="백준 1002 터렛">
-      <created>1644553091768</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1644553091768</updated>
+      <workItem from="1648363200035" duration="3304000" />
+      <workItem from="1648459260240" duration="4036000" />
     </task>
     <task id="LOCAL-00042" summary="백준 10872 팩토리얼">
       <created>1644554315886</created>
@@ -807,7 +798,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648364591008</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="정렬 : 두 배열의 원소 교체">
+      <created>1648365881380</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1648365881380</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -826,7 +824,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="백준 15650 N과 M (2)" />
     <MESSAGE value="백준 15651 N과 M (3)" />
     <MESSAGE value="백준 15652 N과 M (4)" />
     <MESSAGE value="백준 9663 N-Queen" />
@@ -851,7 +848,8 @@
     <MESSAGE value="이코테 실습 : 정렬라이브러리" />
     <MESSAGE value="정렬 : 위에서 아래로" />
     <MESSAGE value="정렬 : 성적이 낮은 순서로 학생 출력하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="정렬 : 성적이 낮은 순서로 학생 출력하기" />
+    <MESSAGE value="정렬 : 두 배열의 원소 교체" />
+    <option name="LAST_COMMIT_MESSAGE" value="정렬 : 두 배열의 원소 교체" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
