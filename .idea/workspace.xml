@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13190cd7-ac1c-400a-841f-8329e14d4ddf" name="Default Changelist" comment="이코테 실습 : 이진탐색">
-      <change afterPath="$PROJECT_DIR$/이코테알고리즘/부품찾기.py" afterDir="false" />
+    <list default="true" id="13190cd7-ac1c-400a-841f-8329e14d4ddf" name="Default Changelist" comment="탐색 : 부품정렬">
+      <change afterPath="$PROJECT_DIR$/이코테알고리즘/떡볶이떡만들기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/이코테알고리즘/Chapters/탐색-이진탐색.py" beforeDir="false" afterPath="$PROJECT_DIR$/이코테알고리즘/Chapters/탐색-이진탐색.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이코테알고리즘/부품찾기.py" beforeDir="false" afterPath="$PROJECT_DIR$/이코테알고리즘/부품찾기.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +75,7 @@
       <recent name="C:\projects\pythonWarkspace\pythonproject\프로그래머스 Lv1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.부품찾기">
+  <component name="RunManager" selected="Python.떡볶이떡만들기">
     <configuration name="두배열의원소교체" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,6 +134,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이코테알고리즘/부품찾기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="떡볶이떡만들기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이코테알고리즘" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이코테알고리즘/떡볶이떡만들기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -386,6 +408,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.떡볶이떡만들기" />
         <item itemvalue="Python.부품찾기" />
         <item itemvalue="Python.두배열의원소교체" />
         <item itemvalue="Python.bfs5-9" />
@@ -486,14 +509,7 @@
       <workItem from="1648363200035" duration="3304000" />
       <workItem from="1648459260240" duration="4207000" />
       <workItem from="1648642325613" duration="808000" />
-      <workItem from="1648643306077" duration="3959000" />
-    </task>
-    <task id="LOCAL-00043" summary="백준 10870 피보나치 수 5">
-      <created>1644747323247</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1644747323247</updated>
+      <workItem from="1648643306077" duration="7350000" />
     </task>
     <task id="LOCAL-00044" summary="백준 2447 별찍기">
       <created>1644751975686</created>
@@ -831,7 +847,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648463822036</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="탐색 : 부품정렬">
+      <created>1648648513203</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1648648513204</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -850,7 +873,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="백준 15652 N과 M (4)" />
     <MESSAGE value="백준 9663 N-Queen" />
     <MESSAGE value="알고리즘문제 -백트래킹(phone keypad)" />
     <MESSAGE value="알고리즘문제 -백트래킹(subsets)" />
@@ -875,7 +897,8 @@
     <MESSAGE value="정렬 : 성적이 낮은 순서로 학생 출력하기" />
     <MESSAGE value="정렬 : 두 배열의 원소 교체" />
     <MESSAGE value="이코테 실습 : 이진탐색" />
-    <option name="LAST_COMMIT_MESSAGE" value="이코테 실습 : 이진탐색" />
+    <MESSAGE value="탐색 : 부품정렬" />
+    <option name="LAST_COMMIT_MESSAGE" value="탐색 : 부품정렬" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -997,7 +1020,7 @@
     <SUITE FILE_PATH="coverage/pythonproject$_11653.coverage" NAME="백준 11653 Coverage Results" MODIFIED="1644223264704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
     <SUITE FILE_PATH="coverage/pythonproject$_3053.coverage" NAME="백준 3053 Coverage Results" MODIFIED="1644500901535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
     <SUITE FILE_PATH="coverage/pythonproject$_10872.coverage" NAME="백준 10872 Coverage Results" MODIFIED="1644747023278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
-    <SUITE FILE_PATH="coverage/pythonproject$.coverage" NAME="부품찾기 Coverage Results" MODIFIED="1648647199043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테알고리즘" />
+    <SUITE FILE_PATH="coverage/pythonproject$.coverage" NAME="떡볶이떡만들기 Coverage Results" MODIFIED="1648680304766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테알고리즘" />
     <SUITE FILE_PATH="coverage/pythonproject$_2480.coverage" NAME="백준 2480 Coverage Results" MODIFIED="1644805483683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
     <SUITE FILE_PATH="coverage/pythonproject$_10757.coverage" NAME="백준 10757 Coverage Results" MODIFIED="1644751039035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
     <SUITE FILE_PATH="coverage/pythonproject$03.coverage" NAME="문제03 Coverage Results" MODIFIED="1620364034863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
