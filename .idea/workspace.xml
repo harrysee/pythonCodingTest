@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13190cd7-ac1c-400a-841f-8329e14d4ddf" name="Default Changelist" comment="다이나믹 : 바닥공사">
-      <change afterPath="$PROJECT_DIR$/백준/백준 1753.py" afterDir="false" />
+    <list default="true" id="13190cd7-ac1c-400a-841f-8329e14d4ddf" name="Default Changelist" comment="백준 1753 최단경로">
+      <change afterPath="$PROJECT_DIR$/이코테알고리즘/Chapters/dfs 복습.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/프로그래머스 Lv1/신규아이디추천.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -628,14 +628,7 @@
       <workItem from="1650516918494" duration="1193000" />
       <workItem from="1650926270172" duration="2743000" />
       <workItem from="1650977212040" duration="2259000" />
-      <workItem from="1651186747581" duration="21987000" />
-    </task>
-    <task id="LOCAL-00052" summary="백준 1436 영화감독 숌">
-      <created>1645058961914</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1645058961915</updated>
+      <workItem from="1651186747581" duration="25529000" />
     </task>
     <task id="LOCAL-00053" summary="백준 2750 수 정렬하기">
       <created>1645063948820</created>
@@ -973,7 +966,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651274721095</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="백준 1753 최단경로">
+      <created>1651404811251</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1651404811254</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -992,7 +992,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="구현 - 시각" />
     <MESSAGE value="구현 - 왕실의 나이트" />
     <MESSAGE value="구현(시뮬레이션) - 게임 개발" />
     <MESSAGE value="DFS : 깊이우선탐색 실습" />
@@ -1017,7 +1016,8 @@
     <MESSAGE value="다익스트라 : 미래도시" />
     <MESSAGE value="다익스트라 : 전보" />
     <MESSAGE value="다이나믹 : 바닥공사" />
-    <option name="LAST_COMMIT_MESSAGE" value="다이나믹 : 바닥공사" />
+    <MESSAGE value="백준 1753 최단경로" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 1753 최단경로" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1093,11 +1093,6 @@
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/이코테알고리즘/음료수얼려먹기.py</url>
-          <line>20</line>
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/이코테알고리즘/성적이낮은순서로학생출력.py</url>
           <line>9</line>
           <option name="timeStamp" value="27" />
@@ -1111,16 +1106,6 @@
           <url>file://$PROJECT_DIR$/이코테알고리즘/Chapters/Heap-kLargestNumber.py</url>
           <line>9</line>
           <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/백준 1753.py</url>
-          <line>39</line>
-          <option name="timeStamp" value="38" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/백준 1753.py</url>
-          <line>27</line>
-          <option name="timeStamp" value="39" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
