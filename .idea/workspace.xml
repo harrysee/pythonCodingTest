@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13190cd7-ac1c-400a-841f-8329e14d4ddf" name="Default Changelist" comment="백준 1753 최단경로">
-      <change afterPath="$PROJECT_DIR$/이코테알고리즘/Chapters/dfs 복습.py" afterDir="false" />
+    <list default="true" id="13190cd7-ac1c-400a-841f-8329e14d4ddf" name="Default Changelist" comment="DFS 복습">
+      <change afterPath="$PROJECT_DIR$/이코테알고리즘/Chapters/bfs 복습.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/이코테알고리즘/연구소.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/프로그래머스 Lv1/신규아이디추천.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -112,28 +113,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이코테알고리즘/전보.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="다익스트라" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonproject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이코테알고리즘/Chapters" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이코테알고리즘/Chapters/다익스트라.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -494,6 +473,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="다익스트라" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이코테알고리즘/Chapters" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이코테알고리즘/Chapters/다익스트라.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -522,7 +523,6 @@
         <item itemvalue="Python.전보" />
         <item itemvalue="Python.Top K Frequent Elems" />
         <item itemvalue="Python.Heap-kLargestNumber" />
-        <item itemvalue="Python.다익스트라" />
       </list>
     </recent_temporary>
   </component>
@@ -628,14 +628,9 @@
       <workItem from="1650516918494" duration="1193000" />
       <workItem from="1650926270172" duration="2743000" />
       <workItem from="1650977212040" duration="2259000" />
-      <workItem from="1651186747581" duration="25529000" />
-    </task>
-    <task id="LOCAL-00053" summary="백준 2750 수 정렬하기">
-      <created>1645063948820</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1645063948821</updated>
+      <workItem from="1651186747581" duration="26322000" />
+      <workItem from="1651409908650" duration="912000" />
+      <workItem from="1651493924748" duration="1548000" />
     </task>
     <task id="LOCAL-00054" summary="백준 10989 수 정렬하기 3">
       <created>1645150127975</created>
@@ -973,7 +968,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651404811254</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="DFS 복습">
+      <created>1651408841663</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1651408841663</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -992,7 +994,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="구현 - 왕실의 나이트" />
     <MESSAGE value="구현(시뮬레이션) - 게임 개발" />
     <MESSAGE value="DFS : 깊이우선탐색 실습" />
     <MESSAGE value="BFS : 넓이우선탐색 실습" />
@@ -1017,7 +1018,8 @@
     <MESSAGE value="다익스트라 : 전보" />
     <MESSAGE value="다이나믹 : 바닥공사" />
     <MESSAGE value="백준 1753 최단경로" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 1753 최단경로" />
+    <MESSAGE value="DFS 복습" />
+    <option name="LAST_COMMIT_MESSAGE" value="DFS 복습" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
