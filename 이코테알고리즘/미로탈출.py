@@ -55,3 +55,42 @@ print(maze[N-1][M-1])
     # 미로배열 안 방문안한 위치의 노드 값을 붙어있었던 기본 x,y에 있는 거리값+1로 출발점에서의 거리값을 넣음
 # 10. 모든 경우에 따라 1인 곳은 거리값이 되었기에 마지막 도착점에도 거리가 있을 것이다.
     # 따라서 도착점까지의 최단거리를 출력하면된다.
+
+def miro(x,y):
+    dx =[0,0,-1,1]
+    dy =[1,-1,0,0]
+    q = deque()
+    q.append((x,y))
+
+    while q:
+        x,y = q.popleft()
+        if x>=N or x<0 or y>=M or y<0:
+            continue
+        for i in range(len(dx)):
+            nx,ny = x+dx[i],y+dy[i]
+            if maze[nx][ny]==1:
+                q.append((nx,ny))
+                maze[nx][ny]=maze[x][y]+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
