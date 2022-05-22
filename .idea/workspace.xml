@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13190cd7-ac1c-400a-841f-8329e14d4ddf" name="Default Changelist" comment="H-index : 프로그래머스, 정렬">
-      <change afterPath="$PROJECT_DIR$/프로그래머스 Lv1/기능개발.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/프로그래머스 Lv1/전화번호 목록.py" afterDir="false" />
+    <list default="true" id="13190cd7-ac1c-400a-841f-8329e14d4ddf" name="Default Changelist" comment="기능개발 : 프로그래머스 큐/스택">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/프로그래머스 Lv1/기능개발.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스 Lv1/기능개발.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -772,14 +771,7 @@
       <workItem from="1652787661271" duration="5296000" />
       <workItem from="1652925750066" duration="12606000" />
       <workItem from="1653137992507" duration="6000" />
-      <workItem from="1653224400351" duration="2858000" />
-    </task>
-    <task id="LOCAL-00061" summary="백준 18870 좌표압축">
-      <created>1645931638752</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1645931638753</updated>
+      <workItem from="1653224400351" duration="2920000" />
     </task>
     <task id="LOCAL-00062" summary="백준 15649 N과 M (1)">
       <created>1646056201303</created>
@@ -1117,7 +1109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652939786223</updated>
     </task>
-    <option name="localTasksCounter" value="110" />
+    <task id="LOCAL-00110" summary="기능개발 : 프로그래머스 큐/스택">
+      <created>1653228334700</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1653228334701</updated>
+    </task>
+    <option name="localTasksCounter" value="111" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1136,7 +1135,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="이코테 실습 : 퀵정렬" />
     <MESSAGE value="이코테 실습 : 계수정렬" />
     <MESSAGE value="이코테 실습 : 정렬라이브러리" />
     <MESSAGE value="정렬 : 위에서 아래로" />
@@ -1161,7 +1159,8 @@
     <MESSAGE value="단어변환 : 프로그래머스, bfs" />
     <MESSAGE value="소수찾기 : 프로그래머스, 완전탐색" />
     <MESSAGE value="H-index : 프로그래머스, 정렬" />
-    <option name="LAST_COMMIT_MESSAGE" value="H-index : 프로그래머스, 정렬" />
+    <MESSAGE value="기능개발 : 프로그래머스 큐/스택" />
+    <option name="LAST_COMMIT_MESSAGE" value="기능개발 : 프로그래머스 큐/스택" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
